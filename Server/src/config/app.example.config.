@@ -1,0 +1,5 @@
+user=root
+password=root
+port=9000
+INITIAL_POOL_SIZE=10
+url=jdbc\:mysql\://localhost\:3306/proj_soft
